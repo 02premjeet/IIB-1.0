@@ -1,11 +1,12 @@
 # IIB-1.0
 A website for college students group memories ❤️❤️❤️ >>(A Lots of memories).
 
->> Team Members :
+## Team Members :
 
-Premjeet
+- Premjeet
 
-Mrityunjay
+- Mrityunjay
+
 
 
 
